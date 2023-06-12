@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\PH Level 2.0\\university management auth service server\\logs\\winston\\successes\\.7e733516223e3ecb7f37707ca80cf86ab3454358-audit.json",
+    "files": [
+        {
+            "date": 1686568969080,
+            "name": "E:\\PH Level 2.0\\university management auth service server\\logs\\winston\\successes\\um-2023-12-06-17-success.log",
+            "hash": "2c873332ff3d6f0af1d5ed475430fbe823860b64ac767f77930c1af07b9a679f"
+        }
+    ],
+    "hashType": "sha256"
+}
