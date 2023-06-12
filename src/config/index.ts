@@ -8,4 +8,5 @@ dotenv.config({
 export default {
   port: process.env.PORT,
   dbUri: process.env.DB_URI,
+  default_user_pass: process.env.DEFAULT_USER_PASS,
 }
